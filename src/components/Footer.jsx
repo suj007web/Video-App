@@ -49,13 +49,13 @@ const Footer = () => {
                 Socail Media
             </Heading>
             <Button variant={'link' } colorScheme={'white'}>
-                <a href="https://youtube.com" target='_blank'>Youtube</a>
+                <a href="https://youtube.com" target='_blank' rel="noreferrer">Youtube</a>
             </Button>
             <Button variant={'link' } colorScheme={'white'}>
-                <a href="https://instagram.com" target='_blank'>Instagram</a>
+                <a href="https://instagram.com" target='_blank' rel="noreferrer">Instagram</a>
             </Button>
             <Button variant={'link' } colorScheme={'white'}>
-                <a href="https://linkedin.com" target='_blank'>LinkedIn</a>
+                <a href="https://linkedin.com" target='_blank' rel="noreferrer">LinkedIn</a>
             </Button>
         </VStack>
       </Stack>

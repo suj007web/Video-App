@@ -10,7 +10,6 @@ import img4 from '../assets/4.png';
 import img5 from '../assets/5.png';
 import imgV from '../assets/11.png';
 
-import { transform } from 'framer-motion';
 
 const headingOptions = {
   pos: 'absolute',
